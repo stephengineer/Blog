@@ -1,6 +1,3 @@
-<h1 align="center">Stephen's Blog</h1>
-<p align="center">Clever Solutions to Exponential Problems</p>
-
 My name is **Stephen Wang**. I am a software engineer, working in Los Angeles currently with a Bachelor’s degree in Mathematics of Computation from University of California, Los Angeles (UCLA), Master’s degree in Computer Science concentrating in Machine Learning from Georgia Institute of Technology (GT).
 
 
