@@ -5,4 +5,4 @@ My name is **Stephen Wang**. I am a software engineer, working in Los Angeles cu
 
 ###### <i> Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. </i> [Read More](https://github.com/scarecrow1123/blog/issues/1)
 *April 22, 2018*
-******
+****
