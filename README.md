@@ -1,5 +1,12 @@
 My name is **Stephen Wang**. I am a software engineer, working in Los Angeles currently with a Bachelor’s degree in Mathematics of Computation from University of California, Los Angeles (UCLA), Master’s degree in Computer Science concentrating in Machine Learning from Georgia Institute of Technology (GT).
 
+#### #9 [Machine Learning](https://github.com/zhongqi1112/Blog/issues/9)
+
+##### <i> Machine Learning Notes. </i> [Read More](https://github.com/zhongqi1112/blog/issues/9)
+*November 12, 2020*
+
+---
+
 #### #8 [Javascript Keywords](https://github.com/zhongqi1112/Blog/issues/8)
 
 ##### <i> Difference between let and var. </i> [Read More](https://github.com/zhongqi1112/blog/issues/8)
