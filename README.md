@@ -1,5 +1,4 @@
-My name is **Stephen Wang**. I am a software engineer, working in Los Angeles currently with a Bachelor’s degree in Mathematics of Computation from University of California, Los Angeles (UCLA), Master’s degree in Computer Science concentrating in Machine Learning from Georgia Institute of Technology (GT).
-
+My name is **Stephen Wang**. I'm a software engineer and instructor of computer science, working at Los Angeles currently with a Master’s degree in Computer Science concentrating in Machine Learning from Georgia Institute of Technology ([GT](https://www.gatech.edu/)), Bachelor’s degree in Mathematics of Computation from University of California, Los Angeles ([UCLA](https://www.ucla.edu/)). I'm interested in machine learning, software development and how we can use these tools to improve our lives.
 
 
 
